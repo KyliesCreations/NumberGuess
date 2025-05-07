@@ -1,5 +1,5 @@
-//# NumberGuess
-//See if your number guess matches the computer
+# NumberGuess
+See if your number guess matches the computer
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
